@@ -1,5 +1,34 @@
-h1 {color:green;background-color:brown}
+h1 {color:#FFA5D2;background-color: #911568}
+body {color:purple;background-image:url(img/IMG_0249.JPG);font-family:Arial;}
 p{background-color:yellow}
-div{background-color:grey;margin:5px;padding:5px}
+div {text-align: center;}
 span{color:white;background-color:black;margin:5px;padding:5px;}
 h1{display:block}
+table {
+	background-color: #FFA421;
+   width: 100%;
+   border: 1px solid #000;
+}
+tr, td {
+   width: 25%;
+   border: 1px solid #000;
+   border-collapse: collapse;
+}
+th {
+   width: 100%;
+   border: 1px solid #000;
+   border-collapse: collapse;
+
+}
+
+li {
+	color:#0B8F91;
+}
+
+a {
+	color:#FF3721;
+}
+
+
+
+
